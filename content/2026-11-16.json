@@ -1,0 +1,59 @@
+{
+  "week": "2026-11-16 … 2026-11-22",
+  "start_number": 1,
+  "items": [
+    {"id": "20261116a", "type": "fact", "date": "2026-11-16",
+     "title": "Batareya {20–80%} oralig‘ini yaxshi ko‘radi",
+     "body": "Litiy-ion batareya doim 100% gacha to‘lib, 0% gacha tushib tursa, tezroq eskiradi. O‘rtacha zaryadda saqlash uning umrini uzaytiradi.",
+     "note": "Batareya mavzusi — eng ko‘p ko‘rilgan Reels bilan bog‘liq"},
+    {"id": "20261116b", "type": "poll", "date": "2026-11-16",
+     "question": "Telefonni {kechasi} zaryadga qo‘yib uxlaysizmi?",
+     "a": "Ha, har kuni", "b": "Yo‘q, kunduzi quvvatlayman"},
+
+    {"id": "20261117a", "type": "fact", "date": "2026-11-17",
+     "title": "Sovuqda zaryadlash — {batareyaga zarar}",
+     "body": "0°C dan past haroratda zaryadlansa, batareya ichida litiy metall qatlami hosil bo‘lib, sig‘im qaytmas tarzda kamayadi. Avval telefonni xonada isiting.",
+     "tag": "Qish maslahati"},
+    {"id": "20261117b", "type": "fact", "date": "2026-11-17",
+     "title": "*#06# — telefoningiz {pasporti}",
+     "body": "Raqam terish oynasiga *#06# yozing: ekranda IMEI raqami chiqadi. Uni yozib qo‘ying — telefon yo‘qolsa, topishda kerak bo‘ladi."},
+
+    {"id": "20261118a", "type": "fact", "date": "2026-11-18",
+     "title": "Telegram'ga {ikki bosqichli} parol qo‘ying",
+     "body": "Sozlamalar → Maxfiylik → Ikki bosqichli tasdiqlash. SMS kodi o‘g‘irlansa ham, parolsiz akkauntingizga hech kim kira olmaydi."},
+    {"id": "20261118b", "type": "poll", "date": "2026-11-18",
+     "question": "Telegram'da ikki bosqichli parol {qo‘yganmisiz}?",
+     "a": "Ha, allaqachon", "b": "Hali yo‘q, hozir qo‘yaman"},
+
+    {"id": "20261119a", "type": "fact", "date": "2026-11-19",
+     "title": "Wi-Fi: {2.4\u00a0GHz} yoki {5\u00a0GHz}?",
+     "body": "2.4 GHz uzoqqa va devor orqali yaxshi yetadi, lekin sekinroq. 5 GHz ancha tez, ammo devordan yomon o‘tadi. Router yonida — 5, uzoq xonada — 2.4."},
+    {"id": "20261119b", "type": "fact", "date": "2026-11-19",
+     "title": "10\u00a0000\u00a0mAh powerbank {10\u00a0000} bermaydi",
+     "body": "Kuchlanishni 3.7 V dan 5 V ga o‘zgartirishda va issiqlikda energiya yo‘qoladi. Amalda telefonga taxminan 60–70% yetib boradi.",
+     "tag": "Bilasizmi?"},
+
+    {"id": "20261120a", "type": "fact", "date": "2026-11-20",
+     "title": "Ilovalarni yopish {quvvatni tejamaydi}",
+     "body": "Fondagi ilovalarni tez-tez surib yopsangiz, keyingi safar ular noldan ochiladi va bu ko‘proq energiya sarflaydi. Android ham, iOS ham ularni o‘zi boshqaradi."},
+    {"id": "20261120b", "type": "poll", "date": "2026-11-20",
+     "question": "Telefonda siz uchun {eng muhimi} qaysi?",
+     "a": "Kamera", "b": "Batareya"},
+
+    {"id": "20261121a", "type": "fact", "date": "2026-11-21",
+     "title": "QR kod {30%} yirtilsa ham o‘qiladi",
+     "body": "QR kodlarda xatoni tuzatish tizimi bor: eng yuqori darajada kodning taxminan 30% qismi shikastlansa ham skaner uni to‘g‘ri o‘qiydi.",
+     "tag": "Bilasizmi?"},
+    {"id": "20261121b", "type": "fact", "date": "2026-11-21",
+     "title": "Kuchli zaryadlovchi telefonni {buzmaydi}",
+     "body": "Telefon o‘ziga kerakli quvvatni o‘zi so‘raydi. 65 W li sifatli zaryadlovchi 20 W telefonga faqat 20 W beradi. Xavfli — arzon, sertifikatsiz kabel va blok."},
+
+    {"id": "20261122a", "type": "fact", "date": "2026-11-22",
+     "title": "Telegram'da {begona qurilma} bormi?",
+     "body": "Sozlamalar → Qurilmalar bo‘limini oching. Tanimagan seansni ko‘rsangiz, darhol tugating. Bu akkauntni o‘g‘irlashdan saqlaydigan eng oddiy tekshiruv."},
+    {"id": "20261122b", "type": "poll", "date": "2026-11-22",
+     "question": "Keyingi video {qaysi mavzuda} bo‘lsin?",
+     "a": "Telefon sirlari", "b": "Telegram sirlari",
+     "note": "Javoblar keyingi ssenariy mavzusini tanlashga yordam beradi"}
+  ]
+}

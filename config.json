@@ -1,0 +1,8 @@
+{
+  "utc_offset_hours": 5,
+  "offer_times": ["09:30", "18:30"],
+  "max_per_day": 2,
+  "active_hours": ["08:00", "23:00"],
+  "low_queue_warning": 3,
+  "ig_api_version": "v23.0"
+}
